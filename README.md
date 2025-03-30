@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm Akshay Kamath</h1>
-<h3 align="center">A passionate full-stack developer. Currently finishing my BS in Computer Science at UCSC and will start my MS in Computer Science and Engineering at UCSD.</h3>
+<h1 align="center">Hi, I'm Akshay Kamath!</h1>
+<h3 align="center">I am a passionate full-stack developer. Currently finishing my BS in Computer Science at UCSC and will start my MS in Computer Science and Engineering at UCSD.</h3>
 
 - 🔭 I’m currently working on [Rental Matchmaker](https://github.com/AkshayKamath12/Rental-Matchmaker)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot** and looking to integrate it as my backend for my Rental Matchmaker project
 
-- 👨‍💻 All of my projects are available at [https://akshaykamath.vercel.app/](https://akshaykamath.vercel.app/)
+- 👨‍💻 More details about myself can be found at [https://akshaykamath.vercel.app/](https://akshaykamath.vercel.app/)
 
-- 📫 How to reach me **akshaykam@gmail.com**
+- 📫 Feel free to send me an email at **akshaykam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KZsh1LCEMz5pHHFK3QXqRb3hWnY3h1nx/view](https://drive.google.com/file/d/1KZsh1LCEMz5pHHFK3QXqRb3hWnY3h1nx/view)
+- 📄 Check out my experiences and accomplishments [https://drive.google.com/file/d/1KZsh1LCEMz5pHHFK3QXqRb3hWnY3h1nx/view](https://drive.google.com/file/d/1KZsh1LCEMz5pHHFK3QXqRb3hWnY3h1nx/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
