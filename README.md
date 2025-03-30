@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay Kamath</h1>
+<h1 align="center">Hi, I'm Akshay Kamath</h1>
 <h3 align="center">A passionate full-stack developer. Currently finishing my BS in Computer Science at UCSC and will start my MS in Computer Science and Engineering at UCSD.</h3>
 
 - 🔭 I’m currently working on [Rental Matchmaker](https://github.com/AkshayKamath12/Rental-Matchmaker)
