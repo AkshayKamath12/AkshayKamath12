@@ -6,7 +6,7 @@
 ### 🚀 About Me
 
 - 🔭 Building [**Rental Matchmaker**](https://github.com/AkshayKamath12/Rental-Matchmaker)
-- 🌱 Learning **Spring Boot**, integrating it into the backend
+- 🌱 Learning **Spring Boot**, integrating it into the backend of Rental Matchmaker
 - 👨‍💻 Portfolio: [akshaykamath.vercel.app](https://akshaykamath.vercel.app/)
 - 📫 Contact: **akshaykam@gmail.com**
 - 📄 [Resume](https://drive.google.com/file/d/1KnHctJlENTnNYZhRa2f4oKqbxyVptL1h/view)
