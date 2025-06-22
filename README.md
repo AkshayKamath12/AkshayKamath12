@@ -9,7 +9,7 @@
 - 🌱 Learning **Spring Boot**, integrating it into the backend of Rental Matchmaker
 - 👨‍💻 Portfolio: [akshaykamath.vercel.app](https://akshaykamath.vercel.app/)
 - 📫 Contact: **akshaykam@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1KnHctJlENTnNYZhRa2f4oKqbxyVptL1h/view)
+- 📄 [Resume](https://drive.google.com/file/d/15yiMuvzth0iRlul1sAYplsRel1xxFK9W/view?usp=drivesdk)
 
 ---
 
