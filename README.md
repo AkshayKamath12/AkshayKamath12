@@ -9,7 +9,7 @@
 - 🌱 Deepening my understanding of **Spring Boot** and **AWS**, integrating them into my projects
 - 👨‍💻 Portfolio: [akshaykamath.vercel.app](https://akshaykamath.vercel.app/)
 - 📫 Contact: **akshaykam@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/15yiMuvzth0iRlul1sAYplsRel1xxFK9W/view?usp=drivesdk)
+- 📄 [Resume](https://drive.google.com/file/d/175GMcqU7b_ZX8CtCGbbc8nXvZQSVfsLN/view?usp=drive_link)
 
 ---
 
