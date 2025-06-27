@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Akshay Kamath! 👋</h1>
+<h1 align="center">Akshay Kamath</h1>
 <h3 align="center">Full-Stack Developer | CS @ UCSC | Incoming MSCS @ UCSD</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Building [**Rental Matchmaker**](https://github.com/AkshayKamath12/Rental-Matchmaker)
-- 🌱 Learning **Spring Boot**, integrating it into the backend of Rental Matchmaker
+- 🔭 Building [**Revive**](https://github.com/AkshayKamath12/Revive)
+- 🌱 Deepening my understanding of **Spring Boot** and **AWS**, integrating them into my projects
 - 👨‍💻 Portfolio: [akshaykamath.vercel.app](https://akshaykamath.vercel.app/)
 - 📫 Contact: **akshaykam@gmail.com**
 - 📄 [Resume](https://drive.google.com/file/d/15yiMuvzth0iRlul1sAYplsRel1xxFK9W/view?usp=drivesdk)
@@ -31,8 +31,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-
-#### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
