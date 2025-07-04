@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Building [**Revive**](https://github.com/AkshayKamath12/Revive)
+- 🔭 Building **Revive**, a full-stack React Native + Spring Boot mobile application for nutrition insights
 - 🌱 Deepening my understanding of **Spring Boot** and **AWS**, integrating them into my projects
 - 👨‍💻 Portfolio: [akshaykamath.vercel.app](https://akshaykamath.vercel.app/)
 - 📫 Contact: **akshaykam@gmail.com**
