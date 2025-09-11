@@ -1,5 +1,5 @@
 <h1 align="center">Akshay Kamath</h1>
-<h3 align="center">Full-Stack Developer | CS @ UCSC | Incoming MSCS @ UCSD</h3>
+<h3 align="center">Full-Stack Developer | MSCS @ UCSD</h3>
 
 ---
 
