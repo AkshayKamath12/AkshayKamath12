@@ -5,11 +5,9 @@
 
 ### About Me
 
-- Building **Revive**, a full-stack React Native + Spring Boot mobile application for nutrition insights
-- Deepening my understanding of **Spring Boot** and **AWS**, integrating them into my projects
-- Portfolio: [akshaykamath.vercel.app](https://akshaykamath.vercel.app/)
+- MSCS student at UCSD
+- Previously interned with AWS SageMaker Unified Studio
 - Contact: **akshaykam@gmail.com**
-- [Resume](https://drive.google.com/file/d/175GMcqU7b_ZX8CtCGbbc8nXvZQSVfsLN/view?usp=drive_link)
 
 ---
 
