@@ -6,6 +6,7 @@
 ### About Me
 
 - MSCS student at UCSD
+- Incoming SDE with AWS SageMaker Unified Studio
 - Previously interned with AWS SageMaker Unified Studio
 - Contact: **akshaykam@gmail.com**
 
@@ -16,7 +17,6 @@
 #### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 #### Frameworks
